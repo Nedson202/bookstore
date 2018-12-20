@@ -1,1 +1,1 @@
-# bookstore
+# Flask store API
